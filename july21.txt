@@ -1,0 +1,9 @@
+shell variable
+echo $PATH
+echo $HOME
+
+1)alias expansion
+2)check built in commands
+3)if not,search on the file system for excutable file
+
+run a shell-execute the sushell
