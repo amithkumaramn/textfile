@@ -1,0 +1,17 @@
+set
+
+is used in union,intersection,difference ,and membership testing.
+membership testing is the imporytant,we can check whether the an operation or number is  in the set.
+
+a set immensely fast compared to the list,and it eliminates the duplicates.
+
+set is mutable.
+set comprehensation.
+
+
+
+code perfomance
+
+is used for profiling the datastrucure,
+
+time complexity is directly proportional to the length of your list.
