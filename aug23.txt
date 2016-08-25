@@ -1,0 +1,21 @@
+python is memory safe,
+
+
+
+pylint
+
+tool used to  find some trivial mistakes in python code.
+checks for style issues.
+coding guidelines.
+
+import
+
+import math			from math import*
+math,sin()			sin()
+
+do not use math.sin()
+fn
+
+
+
+files
